@@ -32,3 +32,14 @@ img {
   max-width: 100%;
   height: auto;
 }
+input,
+button,
+textarea,
+select {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  font: inherit;
+  background: none;
+}
